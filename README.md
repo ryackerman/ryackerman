@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/khalid--taleb.com-visit-blue)](https://khalidtaleb.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryackerman_?style=social)](https://twitter.com/ryackerman_)
 
-## I'm a Student, Football referee!!
+## I'm a Student, a Football referee!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
