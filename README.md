@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/badge/khalid--taleb.com-visit-blue)](https://khalidtaleb.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryackerman_?style=social)](https://twitter.com/ryackerman_)
 
-## I'm a Student, a Football referee!!
+## a web developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other developers to learn more skills
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to music / and to spend time on Reddit
+- ⚡ Fun fact: I love listening to music / and scrolling on Reddit
 
 ### Spotify Playing 🎧
 
@@ -26,14 +26,13 @@
 
 ### Languages and Tools:
 
-- C# / JavaScript / ReactJs / Jquery / NodeJs / C 
-- HTML / CSS / SQL / MySQL / PHP / MongoDB 
+- C# ASP.NET / ReactJs / NodeJs / C / SQL Server
+- HTML / CSS / MySQL / PHP / JavaScript 
 
 <br />
 <br />
 
 [website]: https://khalidtaleb.netlify.app
 [twitter]: https://twitter.com/ryackerman_
-[youtube]: https://bit.ly/2RkAfPq
-[instagram]: https://www.instagram.com/ryackerman_/
+[instagram]: https://www.instagram.com/teito_klien/
 [linkedin]: https://www.linkedin.com/in/khalid-t/
