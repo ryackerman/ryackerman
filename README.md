@@ -3,6 +3,12 @@
 [![Website](https://img.shields.io/badge/khalid--taleb.com-visit-blue)](https://khalidtaleb.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryackerman_?style=social)](https://twitter.com/ryackerman_)
 
+## Profile views
+
+<a href="https://github.com/ryackerman/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ryackerman">
+</a>
+
 ## a web developer
 
 - 🌱 I’m currently learning everything
